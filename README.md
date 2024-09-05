@@ -34,9 +34,9 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/python-l-analyse-de-donnees
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQH75Yk3eWOFNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725352513892?e=2147483647&v=beta&t=My23RvqGaKa6AorbLjZaC6D_LfVQLLMcJnGTo0WW4Qk
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/omar-souissi
 
 [1]: # (End of FR-Instruction ###############################################################################################)
 
