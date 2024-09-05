@@ -6,7 +6,7 @@ Ce dossier Repository est lié au cours `Python : L'analyse de données`. Le cou
 
 Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.    
 
-DESCRIPTION DE LA FORMATION
+De nos jours, l'explosion du volume et de la variété des données ne laisse plus planer de doute : le rôle du data scientist sera central dans les années à venir. Si vous êtes data scientist ou que vous souhaitez travailler avec Python, ce cours est pour vous. Omar Souissi, professeur associé en technologie de l'information et techniques d'optimisation, vous aide à acquérir les bases indispensables pour faire de la data science avec Python. Vous découvrirez comment utiliser deux bibliothèques indispensables, à savoir NumPy et Pandas. Vous verrez également quelques études de cas qui vous permettront d'assimiler facilement les différentes notions de Python pour l'analyse de données.
 
 ## Instructions
 
@@ -34,9 +34,9 @@ La branche master correspond au code à la fin de la formation.
  Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
-[lil-URL-trainer]: https://
+[lil-course-url]: https://www.linkedin.com/learning/python-l-analyse-de-donnees
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4D0DAQH75Yk3eWOFNA/learning-public-crop_675_1200/learning-public-crop_675_1200/0/1725352513892?e=2147483647&v=beta&t=My23RvqGaKa6AorbLjZaC6D_LfVQLLMcJnGTo0WW4Qk
+[lil-URL-trainer]: https://www.linkedin.com/learning/instructors/omar-souissi
 
 [1]: # (End of FR-Instruction ###############################################################################################)
 
